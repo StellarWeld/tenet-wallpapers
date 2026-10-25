@@ -1,0 +1,65 @@
+[
+  {
+    "id": "001",
+    "name": "Фон 1",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(1).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "002",
+    "name": "Фон 2",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(2).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "003",
+    "name": "Фон 3",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(3).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "004",
+    "name": "Фон 4",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(4).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "005",
+    "name": "Фон 5",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(5).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "006",
+    "name": "Фон 6",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(6).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "007",
+    "name": "Фон 7",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(7).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "008",
+    "name": "Фон 8",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(8).jpg",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "009",
+    "name": "Фон 9",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(9).jpg",
+    "width": 1920,
+    "height": 1080
+  }
+]
