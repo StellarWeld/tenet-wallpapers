@@ -1,64 +1,977 @@
 [
   {
-    "id": "001",
+    "id": "art_001",
+    "name": "Akula delfin more",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_001.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_002",
+    "name": "Dom izba noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_002.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_003",
+    "name": "Enot art monety",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_003.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_004",
+    "name": "Kot milyj shar",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_004.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_005",
+    "name": "Olen les noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_005.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_006",
+    "name": "Olen zima noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_006.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_007",
+    "name": "Origami korabliki kosmos",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_007.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_008",
+    "name": "Pliazh palma okean",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_008.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_009",
+    "name": "Reka doma art",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_009.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_010",
+    "name": "Samolet nebo art",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_010.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_011",
+    "name": "Siluet noch zvezdnoe nebo",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_011.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_012",
+    "name": "Sushchestvo misticheskij fantasticheskij",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_012.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_013",
+    "name": "Torii art uedinenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_013.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_014",
+    "name": "Volk luna noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_014.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "art_015",
+    "name": "Zveri derevo vetka",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/ART/art_015.jpg",
+    "category": "art",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_001",
+    "name": "Beskonechnost frizlajt temnota",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_001.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_002",
+    "name": "Doski dereviannyj poverhnost",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_002.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_003",
+    "name": "Dym chernyj fon",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_003.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_004",
+    "name": "Klaviatura podsvetka krasnyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_004.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_005",
+    "name": "Kot chernyj goluboglazyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_005.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_006",
+    "name": "Kot glaza goluboj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_006.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_007",
+    "name": "Linii neon polosy",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_007.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_008",
+    "name": "Luna fazy chernyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_008.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_009",
+    "name": "Luna kratery chernyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_009.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_010",
+    "name": "Molniia svechenie chernyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_010.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_011",
+    "name": "More ajsberg vid sverhu",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_011.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_012",
+    "name": "Pantera hishchnik bolshaia koshka",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_012.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_013",
+    "name": "Podsvetka ogni temnyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_013.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_014",
+    "name": "Puls liniia svet",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_014.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_015",
+    "name": "Relsy zheleznaia doroga temnyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_015.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_016",
+    "name": "Roza tsvetok rozovyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_016.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_017",
+    "name": "Struktura perepletenie truby",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_017.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "black_018",
+    "name": "Zakat siluet vetki",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/BLACK/black_018.jpg",
+    "category": "black",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_001",
+    "name": "Avtomobil fara belyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_001.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_002",
+    "name": "Bmw m3 bmw avtomobil",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_002.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_003",
+    "name": "Bugatti chiron bugatti sportkar",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_003.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_004",
+    "name": "Dodge challenger dodge challenger",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_004.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_005",
+    "name": "Ford mustang gtr ford mashina",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_005.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_006",
+    "name": "Ford mustang gt ford mustang ford",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_006.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_007",
+    "name": "Lamborghini aventador lp7504",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_007.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_008",
+    "name": "Lamborghini mashina sportkar",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_008.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_009",
+    "name": "Mashina seryj mokryj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_009.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_010",
+    "name": "Mashina sportkar neon",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_010.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_011",
+    "name": "Mclaren p1 gtr mclaren p1 mclaren",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_011.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_012",
+    "name": "Shelby mustang ford mustang ford",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_012.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_013",
+    "name": "Sportkar drift gonka",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_013.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_014",
+    "name": "Sportkar drift neon",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_014.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cars_015",
+    "name": "Toyota supra toyota sportkar",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CARS/cars_015.jpg",
+    "category": "cars",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_001",
+    "name": "Doroga razmetka most",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_001.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_002",
+    "name": "Gorod noch panorama",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_002.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_003",
+    "name": "Gorod panorama smog",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_003.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_004",
+    "name": "Gorod skaly gory",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_004.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_005",
+    "name": "Gorod vecher snegopad",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_005.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_006",
+    "name": "Gorod vid sverhu doroga",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_006.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_007",
+    "name": "Most osen gorod",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_007.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_008",
+    "name": "Nochnoj gorod vid sverhu ogni goroda",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_008.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_009",
+    "name": "Ruiny chelovek odinochestvo",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_009.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_010",
+    "name": "Tokio nochnoj gorod neboskreby",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_010.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_011",
+    "name": "Trollejbus ostanovka gorod",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_011.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_012",
+    "name": "Ulitsa gorod zdaniia",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_012.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_013",
+    "name": "Ulitsa luzha otrazhenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_013.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_014",
+    "name": "Virshem germaniia zamok",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_014.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "cities_015",
+    "name": "Zheleznaia doroga poezd stantsiia",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/CITIES/cities_015.jpg",
+    "category": "cities",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_001",
+    "name": "Bliki serdtsa svet",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_001.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_002",
+    "name": "Kniga koltso serdtse",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_002.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_003",
+    "name": "List klen osen",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_003.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_004",
+    "name": "Oblaka serdtse tuchi",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_004.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_005",
+    "name": "Obruchalnye koltsa koltsa liubov",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_005.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_006",
+    "name": "Para siluety obiatiia",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_006.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_007",
+    "name": "Pliushevyj medved serdtse den sviatogo valentina",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_007.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_008",
+    "name": "Ruka sneg serdtse",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_008.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_009",
+    "name": "Ruki serdtse solntse",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_009.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_010",
+    "name": "Serdechki ogni svechenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_010.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_011",
+    "name": "Serdtsa serdtse uzory",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_011.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_012",
+    "name": "Serdtse podsvetka neon",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_012.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_013",
+    "name": "Serdtse svet art",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_013.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_014",
+    "name": "Siluety liubov derevo",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_014.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_015",
+    "name": "Svetofor serdtse signal",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_015.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "love_016",
+    "name": "Zamok liubov zakrytyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/LOVE/love_016.jpg",
+    "category": "love",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_001",
+    "name": "Chasy mehanizm shesterenki",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_001.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_002",
+    "name": "El vetki sneg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_002.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_003",
+    "name": "Kapli klenovyj list osen",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_003.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_004",
+    "name": "Kaplia zhidkost krupnym planom",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_004.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_005",
+    "name": "Korall more glubina",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_005.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_006",
+    "name": "Kraska zhidkost sgustki",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_006.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_007",
+    "name": "Lampochka elektrichestvo svechenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_007.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_008",
+    "name": "Led zhidkost puzyri",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_008.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_009",
+    "name": "List osen ten",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_009.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_010",
+    "name": "Listia kapli kust",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_010.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_011",
+    "name": "Opticheskoe volokno bliki nit",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_011.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_012",
+    "name": "Shokolad kubiki desert",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_012.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_013",
+    "name": "Snezhinka uzor struktura",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_013.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_014",
+    "name": "Trava makro rasteniia",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_014.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_015",
+    "name": "Vetka listia rastenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_015.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_016",
+    "name": "Vetka listia rastenie",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_016.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_017",
+    "name": "Volkswagen avtomobil furgon",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_017.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "macro_018",
+    "name": "Zmeia reptiliia glaz",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/MACRO/macro_018.jpg",
+    "category": "macro",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_001",
+    "name": "Astronavt kosmonavt art",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_001.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_002",
+    "name": "Galaktika noch zvezdnoe nebo",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_002.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_003",
+    "name": "Kosmonavt skafandr raznotsvetnyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_003.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_004",
+    "name": "Kosmos svechenie galaktika",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_004.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_005",
+    "name": "Kosmos vnezemnoj gory",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_005.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_006",
+    "name": "Luna kosmos sputnik",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_006.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_007",
+    "name": "Mlechnyj put zvezdnoe nebo galaktika",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_007.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_008",
+    "name": "Planeta koltso fioletovyj",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_008.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_009",
+    "name": "Severnoe siianie avrora zvezdnoe nebo",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_009.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_010",
+    "name": "Zatmenie luna solntse",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_010.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_011",
+    "name": "Zemlia luna tranzit",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_011.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_012",
+    "name": "Zemlia planeta kosmos",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_012.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_013",
+    "name": "Zvezdnoe nebo mlechnyj put zvezdy",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_013.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_014",
+    "name": "Zvezdnoe nebo zvezdy noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_014.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_015",
+    "name": "Zvezdy nebo kosmos",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_015.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "space_016",
+    "name": "Zvezdy zvezdnoe nebo noch",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/SPACE/space_016.jpg",
+    "category": "space",
+    "width": 1920,
+    "height": 1080
+  },
+  {
+    "id": "tenet_001",
     "name": "Фон 1",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(1).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_001.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "002",
+    "id": "tenet_002",
     "name": "Фон 2",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(2).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_002.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "003",
+    "id": "tenet_003",
     "name": "Фон 3",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(3).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_003.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "004",
+    "id": "tenet_004",
     "name": "Фон 4",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(4).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_004.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "005",
+    "id": "tenet_005",
     "name": "Фон 5",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(5).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_005.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "006",
+    "id": "tenet_006",
     "name": "Фон 6",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(6).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_006.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "007",
+    "id": "tenet_007",
     "name": "Фон 7",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(7).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_007.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "008",
+    "id": "tenet_008",
     "name": "Фон 8",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(8).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_008.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   },
   {
-    "id": "009",
+    "id": "tenet_009",
     "name": "Фон 9",
-    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/IMG_%20(9).jpg",
+    "url": "https://cdn.jsdelivr.net/gh/StellarWeld/tenet-wallpapers@main/tenet_009.jpg",
+    "category": "tenet",
     "width": 1920,
     "height": 1080
   }
